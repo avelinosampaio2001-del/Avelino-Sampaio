@@ -1,0 +1,920 @@
+[
+  {
+    "id": "dict-google-1794214002879-myxx",
+    "word": "kixikanenu",
+    "translation": "esperança",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "No Kimbundu, 'kixikanenu' deriva do verbo 'kixikana', que significa acreditar ou ter fé. Em Angola, o termo é utilizado para descrever a expectativa positiva e a confiança em algo que ainda não aconteceu, alinhando-se ao conceito de esperança.",
+    "examples": [
+      {
+        "phrase": "kixikanenu",
+        "translation": "esperança"
+      }
+    ],
+    "pronunciation": "ki-shi-ka-nê-nu",
+    "culturalNotes": "No Kimbundu, 'kixikanenu' deriva do verbo 'kixikana', que significa acreditar ou ter fé. Em Angola, o termo é utilizado para descrever a expectativa positiva e a confiança em algo que ainda não aconteceu, alinhando-se ao conceito de esperança.",
+    "contributorName": "Google Tradutor & IA (Automático)",
+    "contributorId": "bot-google-ai",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-11-09T08:46:42.879Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 5,
+      "incorrect": 0,
+      "hearts": 2
+    },
+    "searchCount": 1,
+    "reportsCount": 0
+  },
+  {
+    "id": "dict-google-1794213794593-cj9z",
+    "word": "N/A (Termo não catalogado)",
+    "translation": "palavra_desconhecida_xyz",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "O vocábulo 'palavra_desconhecida_xyz' não possui correspondência direta ou registro etimológico nos corpora de Kimbundu verificados. Recomenda-se a revisão ortográfica ou a verificação de possíveis variações dialetais na região de Luanda ou Cuanza Norte.",
+    "examples": [
+      {
+        "phrase": "N/A (Termo não catalogado)",
+        "translation": "palavra_desconhecida_xyz"
+      }
+    ],
+    "pronunciation": "N/A",
+    "culturalNotes": "O vocábulo 'palavra_desconhecida_xyz' não possui correspondência direta ou registro etimológico nos corpora de Kimbundu verificados. Recomenda-se a revisão ortográfica ou a verificação de possíveis variações dialetais na região de Luanda ou Cuanza Norte.",
+    "contributorName": "Google Tradutor & IA (Automático)",
+    "contributorId": "bot-google-ai",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-11-09T08:43:14.593Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 5,
+      "incorrect": 0,
+      "hearts": 2
+    },
+    "searchCount": 1,
+    "reportsCount": 0
+  },
+  {
+    "id": "dict-google-1793785491537-yq27",
+    "word": "kudia",
+    "translation": "Comer / Refeição",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Termo derivado do Kimbundu, amplamente incorporado ao português de Angola (calão e uso coloquial). Pode ser utilizado como verbo (o ato de comer) ou como substantivo para se referir a comida em geral, frequentemente associado a momentos de convívio social e pratos tradicionais.",
+    "examples": [
+      {
+        "phrase": "kudia",
+        "translation": "Comer / Refeição"
+      }
+    ],
+    "pronunciation": "ku-di-a",
+    "culturalNotes": "Termo derivado do Kimbundu, amplamente incorporado ao português de Angola (calão e uso coloquial). Pode ser utilizado como verbo (o ato de comer) ou como substantivo para se referir a comida em geral, frequentemente associado a momentos de convívio social e pratos tradicionais.",
+    "contributorName": "Google Tradutor & IA (Automático)",
+    "contributorId": "bot-google-ai",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-11-04T09:44:51.537Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 5,
+      "incorrect": 0,
+      "hearts": 2
+    },
+    "searchCount": 1,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-1",
+    "word": "Sakidila",
+    "translation": "Obrigado / Agradeço",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Expressão de gratidão sincera e reconhecimento de um favor ou gentileza recebida.",
+    "examples": [
+      {
+        "phrase": "Sakidila kyavulu, ndenge yami.",
+        "translation": "Muito obrigado, meu irmão/mais novo."
+      },
+      {
+        "phrase": "Etu twa sakidila Nzambi.",
+        "translation": "Nós agradecemos a Deus."
+      }
+    ],
+    "pronunciation": "Sah-kee-dee-lah",
+    "culturalNotes": "Em Kimbundu, a gratidão reforça os laços ancestrais de respeito (ukamba) entre os membros da comunidade.",
+    "contributorName": "Dra. Kieza Malanje",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-12T10:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 48,
+      "incorrect": 0,
+      "hearts": 35
+    },
+    "searchCount": 320,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-2",
+    "word": "Muxima",
+    "translation": "Coração / Sentimento / Alma",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "O centro dos sentimentos, consciência moral e apego afetivo na filosofia bantu.",
+    "examples": [
+      {
+        "phrase": "Muxima wami wezala ni kuzola.",
+        "translation": "O meu coração está cheio de amor."
+      },
+      {
+        "phrase": "Monandengue uala ni muxima wambote.",
+        "translation": "A criança tem um bom coração."
+      }
+    ],
+    "pronunciation": "Moo-shee-mah",
+    "culturalNotes": "Dá também nome ao famoso Santuário da Muxima na província de Luanda / Bengo, símbolo de devoção nacional.",
+    "contributorName": "Professor Ndombele",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-15T14:30:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 52,
+      "incorrect": 1,
+      "hearts": 41
+    },
+    "searchCount": 410,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-3",
+    "word": "Kandandu",
+    "translation": "Abraço caloroso / Saudação fraterna",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Gesto de carinho que une duas pessoas; abraço fraterno típico angolano.",
+    "examples": [
+      {
+        "phrase": "Ngakubhana kandandu kakola!",
+        "translation": "Dou-te um abraço forte!"
+      }
+    ],
+    "pronunciation": "Kahn-dahn-doo",
+    "culturalNotes": "Palavra amplamente adotada no vocabulário angolano em português ao despedir-se de amigos próximos.",
+    "contributorName": "Isabel Panzo",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-18T09:15:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 64,
+      "incorrect": 0,
+      "hearts": 58
+    },
+    "searchCount": 512,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-4",
+    "word": "Wiza kiambote",
+    "translation": "Bem-vindo / Chega em boa hora",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Saudação afetuosa de boas-vindas ao visitante ou hóspede.",
+    "examples": [
+      {
+        "phrase": "Wiza kiambote mu mbanza yetu.",
+        "translation": "Sê bem-vindo à nossa terra."
+      }
+    ],
+    "pronunciation": "Wee-zah kee-ahm-boh-teh",
+    "culturalNotes": "A hospitalidade é um dos pilares mais sagrados da cultura bantu em Angola.",
+    "contributorName": "Manuel Quissua",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-20T11:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 31,
+      "incorrect": 0,
+      "hearts": 22
+    },
+    "searchCount": 180,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-5",
+    "word": "Makamba",
+    "translation": "Amigos / Companheiros",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Plural de dikamba (amigo); refere-se ao círculo de companheirismo leal.",
+    "examples": [
+      {
+        "phrase": "Makamba mami a wiza o lelu.",
+        "translation": "Os meus amigos vieram hoje."
+      }
+    ],
+    "pronunciation": "Mah-kahm-bah",
+    "culturalNotes": "Raiz da expressão informal \"kamba\" usada por todos os angolanos no dia a dia.",
+    "contributorName": "Lando Gaspar",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-22T16:20:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 39,
+      "incorrect": 0,
+      "hearts": 29
+    },
+    "searchCount": 290,
+    "reportsCount": 0
+  },
+  {
+    "id": "kimb-6",
+    "word": "Nzambi",
+    "translation": "Deus / Divindade Suprema",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "O Criador do universo na espiritualidade tradicional e adotado no cristianismo.",
+    "examples": [
+      {
+        "phrase": "Nzambi uabana mwenyu.",
+        "translation": "Deus concedeu a vida."
+      }
+    ],
+    "pronunciation": "N-zahm-bee",
+    "culturalNotes": "Nome comum compartilhado em várias línguas bantu do centro-oeste africano.",
+    "contributorName": "Pastor Nginga",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-25T12:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 44,
+      "incorrect": 0,
+      "hearts": 31
+    },
+    "searchCount": 245,
+    "reportsCount": 0
+  },
+  {
+    "id": "umb-1",
+    "word": "Ndapandula",
+    "translation": "Obrigado / Sou grato",
+    "language": "umbundu",
+    "targetLanguage": "pt",
+    "meaning": "Expressão de reconhecimento e gratidão em Umbundu.",
+    "examples": [
+      {
+        "phrase": "Ndapandula calua, mukwetu.",
+        "translation": "Muito obrigado, meu amigo."
+      },
+      {
+        "phrase": "Etwe twa pandula ocisola cove.",
+        "translation": "Nós agradecemos o teu carinho."
+      }
+    ],
+    "pronunciation": "Ndah-pahn-doo-lah",
+    "culturalNotes": "Diz-se frequentemente inclinando suavemente a cabeça com a mão no peito em sinal de respeito aos mais velhos.",
+    "contributorName": "Dr. Chivukuvuku Silva",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-10T08:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 56,
+      "incorrect": 0,
+      "hearts": 42
+    },
+    "searchCount": 480,
+    "reportsCount": 0
+  },
+  {
+    "id": "umb-2",
+    "word": "Kalunga",
+    "translation": "Olá / Saudação de paz / Vida",
+    "language": "umbundu",
+    "targetLanguage": "pt",
+    "meaning": "Saudação cerimoniosa usada em qualquer momento do dia que deseja saúde e vitalidade.",
+    "examples": [
+      {
+        "phrase": "Kalunga ciwa, sekulu.",
+        "translation": "Olá com saúde e paz, venerável ancião."
+      }
+    ],
+    "pronunciation": "Kah-loon-gah",
+    "culturalNotes": "Conceito profundo que abrange a vida, o mar imenso e a força cósmica primordial.",
+    "contributorName": "Helena Chinguto",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-14T11:45:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 61,
+      "incorrect": 0,
+      "hearts": 49
+    },
+    "searchCount": 530,
+    "reportsCount": 0
+  },
+  {
+    "id": "umb-3",
+    "word": "Ocisola",
+    "translation": "Amor / Afeição verdadeira",
+    "language": "umbundu",
+    "targetLanguage": "pt",
+    "meaning": "Amor profundo entre familiares, parceiros ou pela terra natal.",
+    "examples": [
+      {
+        "phrase": "Ocisola cange kokuove ka ci pu.",
+        "translation": "O meu amor por ti nunca terá fim."
+      }
+    ],
+    "pronunciation": "Oh-chee-soh-lah",
+    "culturalNotes": "Frequentemente cantado em canções tradicionais de nado e matrimónio no planalto central.",
+    "contributorName": "Maria Kapitu",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-19T13:20:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 38,
+      "incorrect": 0,
+      "hearts": 33
+    },
+    "searchCount": 310,
+    "reportsCount": 0
+  },
+  {
+    "id": "umb-4",
+    "word": "Ombembwa",
+    "translation": "Paz / Concórdia / Serenidade",
+    "language": "umbundu",
+    "targetLanguage": "pt",
+    "meaning": "Estado de harmonia social e espiritual entre os seres humanos e os antepassados.",
+    "examples": [
+      {
+        "phrase": "Ombembwa yi kale kokuene vosi.",
+        "translation": "Que a paz esteja com todos vós."
+      }
+    ],
+    "pronunciation": "Ohm-behm-bwah",
+    "culturalNotes": "Palavra chave usada na reconciliação nacional e no encerramento de julgamentos comunitários (onjango).",
+    "contributorName": "Dr. Chivukuvuku Silva",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-21T09:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 47,
+      "incorrect": 0,
+      "hearts": 40
+    },
+    "searchCount": 340,
+    "reportsCount": 0
+  },
+  {
+    "id": "umb-5",
+    "word": "Onjango",
+    "translation": "Lugar de tertúlia / Tribunal comunitário tradicional",
+    "language": "umbundu",
+    "targetLanguage": "pt",
+    "meaning": "Espaço circular coberto de palha onde a comunidade se reúne para deliberar, contar histórias e educar as novas gerações.",
+    "examples": [
+      {
+        "phrase": "Tukalingila vonjango ovingonji vietu.",
+        "translation": "Vamos ao onjango partilhar os nossos pensamentos."
+      }
+    ],
+    "pronunciation": "Ohn-jahn-goh",
+    "culturalNotes": "Símbolo maior da democracia participativa tradicional angolana.",
+    "contributorName": "Professor Ndombele",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-26T15:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 53,
+      "incorrect": 0,
+      "hearts": 46
+    },
+    "searchCount": 420,
+    "reportsCount": 0
+  },
+  {
+    "id": "kik-1",
+    "word": "Mbote",
+    "translation": "Olá / Bom dia / Saúde / Paz",
+    "language": "kikongo",
+    "targetLanguage": "pt",
+    "meaning": "A mais universal saudação em Kikongo, desejando bondade e bem-estar integral.",
+    "examples": [
+      {
+        "phrase": "Mbote zaku, nsongi yami!",
+        "translation": "Olá para ti, meu irmão/irmã!"
+      },
+      {
+        "phrase": "Mbote na beno!",
+        "translation": "Saudações a todos vós!"
+      }
+    ],
+    "pronunciation": "Mboh-teh",
+    "culturalNotes": "A palavra deriva da raiz \"bôte\", que significa beleza moral e retidão de caráter.",
+    "contributorName": "Nkosi Kinzambi",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-08T10:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 68,
+      "incorrect": 0,
+      "hearts": 55
+    },
+    "searchCount": 560,
+    "reportsCount": 0
+  },
+  {
+    "id": "kik-2",
+    "word": "Matondo",
+    "translation": "Obrigado / Agradecimentos",
+    "language": "kikongo",
+    "targetLanguage": "pt",
+    "meaning": "Reconhecimento caloroso de uma bênção ou ajuda prestada.",
+    "examples": [
+      {
+        "phrase": "Matondo mingi mu lusadisu lwaku.",
+        "translation": "Muito obrigado pela tua preciosa ajuda."
+      }
+    ],
+    "pronunciation": "Mah-tohn-doh",
+    "culturalNotes": "Expressão carregada de espiritualidade e apreço pelo bem comunitário.",
+    "contributorName": "Simão Ndombasi",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-13T14:10:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 49,
+      "incorrect": 0,
+      "hearts": 39
+    },
+    "searchCount": 390,
+    "reportsCount": 0
+  },
+  {
+    "id": "kik-3",
+    "word": "Kintwadi",
+    "translation": "União / Solidariedade comunitária",
+    "language": "kikongo",
+    "targetLanguage": "pt",
+    "meaning": "O princípio de viver em comunhão, entreajuda mútua e fraternidade coletiva.",
+    "examples": [
+      {
+        "phrase": "Mu kintwadi, tulenda tunga nsi yetu.",
+        "translation": "Na união, podemos construir a nossa nação."
+      }
+    ],
+    "pronunciation": "Keen-twah-dee",
+    "culturalNotes": "Conceito chave que orienta as cooperativas agrícolas tradicionais e reuniões de clã no norte de Angola.",
+    "contributorName": "Nkosi Kinzambi",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-17T16:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 42,
+      "incorrect": 0,
+      "hearts": 36
+    },
+    "searchCount": 280,
+    "reportsCount": 0
+  },
+  {
+    "id": "cok-1",
+    "word": "Moyo",
+    "translation": "Olá / Vida / Saudação de bênção",
+    "language": "cokwe",
+    "targetLanguage": "pt",
+    "meaning": "Saudação que celebra a vida e a respiração; também significa o sopro vital.",
+    "examples": [
+      {
+        "phrase": "Moyo wenu, mandumbu!",
+        "translation": "Saudações com vida, irmãos e irmãs!"
+      }
+    ],
+    "pronunciation": "Moh-yoh",
+    "culturalNotes": "Em Cokwe, saudar alguém é reconhecer que a energia da vida nos mantém conectados aos ancestrais.",
+    "contributorName": "Mwata Muatchissengue",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-09T11:20:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 50,
+      "incorrect": 0,
+      "hearts": 44
+    },
+    "searchCount": 430,
+    "reportsCount": 0
+  },
+  {
+    "id": "cok-2",
+    "word": "Zukwenu",
+    "translation": "Obrigado / Bem haja",
+    "language": "cokwe",
+    "targetLanguage": "pt",
+    "meaning": "Expressão de gratidão em Tchokwe para com um anfitrião ou companheiro.",
+    "examples": [
+      {
+        "phrase": "Zukwenu chinji ha mulonga uno.",
+        "translation": "Muito obrigado por este gesto nobre."
+      }
+    ],
+    "pronunciation": "Zoo-kweh-noo",
+    "culturalNotes": "Utilizado com particular reverência durante a partilha de caça e nas festividades da corte tradicional.",
+    "contributorName": "Tchissola Muacanhica",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-16T12:40:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 35,
+      "incorrect": 0,
+      "hearts": 28
+    },
+    "searchCount": 220,
+    "reportsCount": 0
+  },
+  {
+    "id": "cok-3",
+    "word": "Samanyonga",
+    "translation": "O Pensador / Aquele que medita",
+    "language": "cokwe",
+    "targetLanguage": "pt",
+    "meaning": "O venerável ancião representado na célebre estatueta \"O Pensador\", meditando sobre os enigmas da existência.",
+    "examples": [
+      {
+        "phrase": "Samanyonga kali chilweza cha mana jetu.",
+        "translation": "O Pensador é o espelho da nossa sabedoria ancestral."
+      }
+    ],
+    "pronunciation": "Sah-mah-nyohn-gah",
+    "culturalNotes": "Obra-prima da escultura Cokwe mundialmente reconhecida como símbolo da filosofia e alma de Angola.",
+    "contributorName": "Mwata Muatchissengue",
+    "contributorLevel": "Embaixador da Língua",
+    "createdAt": "2026-01-24T17:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 72,
+      "incorrect": 0,
+      "hearts": 66
+    },
+    "searchCount": 650,
+    "reportsCount": 0
+  },
+  {
+    "id": "kwa-1",
+    "word": "Wa aluka",
+    "translation": "Olá / Como estás? / Sê bem-vindo",
+    "language": "kwanyama",
+    "targetLanguage": "pt",
+    "meaning": "Saudação comum no Cunene ao encontrar alguém na aldeia.",
+    "examples": [
+      {
+        "phrase": "Wa aluka nawa, mukwetu?",
+        "translation": "Estás bem de saúde, companheiro?"
+      }
+    ],
+    "pronunciation": "Wah ah-loo-kah",
+    "culturalNotes": "A resposta habitual é \"Ame onda aluka nawa\" (Eu estou bem de saúde).",
+    "contributorName": "Nghituwamhata Haimbodi",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-11T13:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 29,
+      "incorrect": 0,
+      "hearts": 21
+    },
+    "searchCount": 195,
+    "reportsCount": 0
+  },
+  {
+    "id": "kwa-2",
+    "word": "Tangi",
+    "translation": "Obrigado / Agradeço",
+    "language": "kwanyama",
+    "targetLanguage": "pt",
+    "meaning": "Expressão de gratidão e reconhecimento no Cunene.",
+    "examples": [
+      {
+        "phrase": "Tangi unene kelombwelo loye.",
+        "translation": "Muito obrigado pela tua sábia orientação."
+      }
+    ],
+    "pronunciation": "Tahn-gee",
+    "culturalNotes": "Simples, direto e amplamente falado em toda a bacia do rio Cuvelai.",
+    "contributorName": "Nghituwamhata Haimbodi",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-23T15:30:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 28,
+      "incorrect": 0,
+      "hearts": 19
+    },
+    "searchCount": 170,
+    "reportsCount": 0
+  },
+  {
+    "id": "ngan-1",
+    "word": "Vukwenu",
+    "translation": "Obrigado / Sou grato",
+    "language": "ngangela",
+    "targetLanguage": "pt",
+    "meaning": "Reconhecimento de gentileza e partilha nas terras do leste.",
+    "examples": [
+      {
+        "phrase": "Vukwenu chikuma mu cizemo cove.",
+        "translation": "Muito obrigado pelo teu nobre amor."
+      }
+    ],
+    "pronunciation": "Voo-kweh-noo",
+    "culturalNotes": "Usado nas margens do Cuando e Cubango em celebrações de colheita.",
+    "contributorName": "Kavita Chissingui",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-27T10:15:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 24,
+      "incorrect": 0,
+      "hearts": 18
+    },
+    "searchCount": 130,
+    "reportsCount": 0
+  },
+  {
+    "id": "fio-1",
+    "word": "Bika mbote",
+    "translation": "Fica em paz / Até logo",
+    "language": "fiote",
+    "targetLanguage": "pt",
+    "category": "Saudações",
+    "meaning": "Despedida cordial e afável em Cabinda.",
+    "examples": [
+      {
+        "phrase": "Bika mbote, tutadiana mbazi.",
+        "translation": "Fica em paz, até nos vermos amanhã."
+      }
+    ],
+    "pronunciation": "Bee-kah mboh-teh",
+    "culturalNotes": "Reflete a doçura e tranquilidade da cultura do povo de Cabinda.",
+    "contributorName": "Manoelita Buanga",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-28T09:40:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 22,
+      "incorrect": 0,
+      "hearts": 17
+    },
+    "searchCount": 145,
+    "reportsCount": 0
+  },
+  {
+    "id": "fio-2",
+    "word": "Matondo mingi",
+    "translation": "Muitos agradecimentos / Muito obrigado",
+    "language": "fiote",
+    "targetLanguage": "pt",
+    "category": "Cortesia",
+    "meaning": "Agradecimento sincero por acolhimento ou dádiva.",
+    "examples": [
+      {
+        "phrase": "Matondo mingi mu buza bwaku.",
+        "translation": "Muito obrigado pela tua amabilidade."
+      }
+    ],
+    "pronunciation": "Mah-tohn-doh meen-gee",
+    "culturalNotes": "Partilhado entre as variantes setentrionais do Kikongo no Maiombe e Cabinda.",
+    "contributorName": "Manoelita Buanga",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-01-29T11:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 25,
+      "incorrect": 0,
+      "hearts": 19
+    },
+    "searchCount": 160,
+    "reportsCount": 0
+  },
+  {
+    "id": "luv-1",
+    "word": "Sakuwila",
+    "translation": "Obrigado / Agradeço com apreço",
+    "language": "luvale",
+    "targetLanguage": "pt",
+    "category": "Cortesia",
+    "meaning": "Expressão respeitosa de gratidão no leste de Angola, ao longo do rio Zambeze.",
+    "examples": [
+      {
+        "phrase": "Sakuwila chinji, ndumbu yami.",
+        "translation": "Muito obrigado, meu irmão."
+      }
+    ],
+    "pronunciation": "Sah-koo-wee-lah",
+    "culturalNotes": "Utilizado em ocasiões formais de acolhimento e partilha de alimentos no Moxico.",
+    "contributorName": "Kasoma Chinyama",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-30T10:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 31,
+      "incorrect": 0,
+      "hearts": 24
+    },
+    "searchCount": 180,
+    "reportsCount": 0
+  },
+  {
+    "id": "luv-2",
+    "word": "Likishi",
+    "translation": "Máscara sagrada ancestral / Espírito protetor",
+    "language": "luvale",
+    "targetLanguage": "pt",
+    "category": "Cultura & Filosofia",
+    "meaning": "Figura mascarada cerimonial que encarna a sabedoria e a força dos antepassados nos ritos de iniciação Mukanda.",
+    "examples": [
+      {
+        "phrase": "Likishi lya mwana-pwo linahiti.",
+        "translation": "A máscara Likishi de Mwana-pwo passou."
+      }
+    ],
+    "pronunciation": "Lee-kee-shee",
+    "culturalNotes": "Manifestação cultural patrimonial dos povos Luvale e Cokwe, reconhecida pela sua mestria artística e rítmica.",
+    "contributorName": "Kasoma Chinyama",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-01-31T15:20:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 44,
+      "incorrect": 0,
+      "hearts": 39
+    },
+    "searchCount": 290,
+    "reportsCount": 0
+  },
+  {
+    "id": "nya-1",
+    "word": "Tyiwa",
+    "translation": "Bem / Em harmonia / Bom",
+    "language": "nyaneka",
+    "targetLanguage": "pt",
+    "category": "Saudações",
+    "meaning": "Expressa saúde, paz, beleza e concordância nas terras altas da Serra da Chela e Lubango.",
+    "examples": [
+      {
+        "phrase": "Kala tyiwa, mukwetu.",
+        "translation": "Fica bem, meu amigo."
+      }
+    ],
+    "pronunciation": "Tchee-wah",
+    "culturalNotes": "Saudação habitual pastoral do povo Nyaneka-Humbi no planalto da Huíla.",
+    "contributorName": "Tchindele Chipenda",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-02-01T08:30:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 27,
+      "incorrect": 0,
+      "hearts": 20
+    },
+    "searchCount": 165,
+    "reportsCount": 0
+  },
+  {
+    "id": "nya-2",
+    "word": "Oupale",
+    "translation": "Assembleia comunitária tradicional / Conselho dos mais velhos",
+    "language": "nyaneka",
+    "targetLanguage": "pt",
+    "category": "Sociedade & Tradição",
+    "meaning": "Local sagrado e reunião comunitária onde se deliberam as decisões da aldeia e se resolvem litígios com serenidade.",
+    "examples": [
+      {
+        "phrase": "Ovanthu vehi voupale vatokola nawa.",
+        "translation": "As pessoas do conselho deliberaram com justiça."
+      }
+    ],
+    "pronunciation": "Oh-oo-pah-leh",
+    "culturalNotes": "Espaço análogo ao onjango umbundu, preservado com dignidade pelas comunidades pastoris da Huíla.",
+    "contributorName": "Tchindele Chipenda",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-02-01T12:00:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 33,
+      "incorrect": 0,
+      "hearts": 26
+    },
+    "searchCount": 210,
+    "reportsCount": 0
+  },
+  {
+    "id": "muh-1",
+    "word": "Omuhona",
+    "translation": "Senhor venerável / Autoridade tradicional respeitada",
+    "language": "muhumbi",
+    "targetLanguage": "pt",
+    "category": "Sociedade & Tradição",
+    "meaning": "Título de honra e respeito concedido ao chefe de família ou líder tradicional na região do Cunene e Huíla.",
+    "examples": [
+      {
+        "phrase": "Omuhona yetu wetupopila nombili.",
+        "translation": "O nosso senhor falou-nos com palavras de paz."
+      }
+    ],
+    "pronunciation": "Oh-moo-hoh-nah",
+    "culturalNotes": "Título tradicional bantu compartilhado no sul de Angola, indicando integridade e liderança benevolente.",
+    "contributorName": "Haimbodi Nekwaya",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-02-02T09:10:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 26,
+      "incorrect": 0,
+      "hearts": 18
+    },
+    "searchCount": 140,
+    "reportsCount": 0
+  },
+  {
+    "id": "muh-2",
+    "word": "Okupandula",
+    "translation": "Agradecer com humildade / Dar graças",
+    "language": "muhumbi",
+    "targetLanguage": "pt",
+    "category": "Cortesia",
+    "meaning": "Agradecimento ritual ou interpessoal pela colheita e pelo gado.",
+    "examples": [
+      {
+        "phrase": "Tupandula oluhapu lwove.",
+        "translation": "Agradecemos as tuas boas palavras."
+      }
+    ],
+    "pronunciation": "Oh-koo-pahn-doo-lah",
+    "culturalNotes": "Prática de gratidão sagrada ligada à fertilidade da terra e saúde dos animais.",
+    "contributorName": "Haimbodi Nekwaya",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-02-02T13:40:00Z",
+    "status": "Aprovada",
+    "votes": {
+      "correct": 22,
+      "incorrect": 0,
+      "hearts": 16
+    },
+    "searchCount": 125,
+    "reportsCount": 0
+  },
+  {
+    "id": "sug-pend-1",
+    "word": "Mwana-pwo",
+    "translation": "Jovem mulher / Máscara de beleza feminina",
+    "language": "cokwe",
+    "targetLanguage": "pt",
+    "meaning": "Designa a jovem mulher e a emblemática máscara de madeira que celebra os ideais de graça e sabedoria matriarcal Cokwe.",
+    "examples": [
+      {
+        "phrase": "Mwana-pwo apwa chifwanyisa cha ulema.",
+        "translation": "A Mwana-pwo é o símbolo da dignidade feminina."
+      }
+    ],
+    "pronunciation": "Mwah-nah pwoh",
+    "culturalNotes": "Uma das mais belas máscaras rituais de Angola, usada em danças cerimoniais de celebração da fertilidade e harmonia.",
+    "contributorName": "Tchissola Muacanhica",
+    "contributorLevel": "Tradutor",
+    "createdAt": "2026-02-01T14:00:00Z",
+    "status": "Pendente",
+    "votes": {
+      "correct": 14,
+      "incorrect": 0,
+      "hearts": 12
+    },
+    "searchCount": 88,
+    "reportsCount": 0
+  },
+  {
+    "id": "sug-pend-2",
+    "word": "Kixikila",
+    "translation": "Sistema tradicional de poupança comunitária rotativa",
+    "language": "kimbundu",
+    "targetLanguage": "pt",
+    "meaning": "Associação solidária de entreajuda financeira onde cada membro contribui com um montante periódico e recolhe a quota rotativa.",
+    "examples": [
+      {
+        "phrase": "Makamba mami a bhanga kixikila kya ngondo.",
+        "translation": "Os meus amigos organizaram uma kixikila mensal."
+      }
+    ],
+    "pronunciation": "Kee-shee-kee-lah",
+    "culturalNotes": "Instituição financeira ancestral angolana ainda amplamente viva nos mercados e bairros de Luanda e de todo o país.",
+    "contributorName": "Adão Domingos",
+    "contributorLevel": "Colaborador",
+    "createdAt": "2026-02-02T16:30:00Z",
+    "status": "Pendente",
+    "votes": {
+      "correct": 20,
+      "incorrect": 0,
+      "hearts": 18
+    },
+    "searchCount": 110,
+    "reportsCount": 0
+  }
+]

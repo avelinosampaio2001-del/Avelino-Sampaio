@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+  }
+}
+
+.font-serif-heading {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Samakaka subtle geometric decorative ribbon */
+.samakaka-accent {
+  background-image: linear-gradient(
+    45deg,
+    #ce1126 25%,
+    #0d0d11 25%,
+    #0d0d11 50%,
+    #ffc72c 50%,
+    #ffc72c 75%,
+    #ce1126 75%,
+    #ce1126 100%
+  );
+  background-size: 16px 16px;
+}
+
+.samakaka-border-b {
+  position: relative;
+}
+.samakaka-border-b::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #ce1126 0%, #ce1126 35%, #ffc72c 35%, #ffc72c 65%, #0d0d11 65%, #0d0d11 100%);
+}

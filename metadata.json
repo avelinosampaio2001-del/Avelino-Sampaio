@@ -1,0 +1,6 @@
+{
+  "name": "Tradutor Nacional de Angola",
+  "description": "Plataforma moderna dedicada à tradução, valorização e preservação das línguas nacionais angolanas (Kimbundu, Umbundu, Kikongo, Cokwe e mais).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

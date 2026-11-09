@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "username": "admin",
+    "salt": "a8f3b2075c1209eb47c94ef35b87192ad41c48e8a60965d13b482e9871032c54",
+    "hash": "7cb83615d7ecc9212fe962a572e97ca9d91e10063296e5afe0e39a148cab348ad62b2f941f656c5a2ec5bcaa4379dc48a9ad297ffc86745006708888be9b7c29",
+    "iterations": 100000,
+    "digest": "sha512",
+    "role": "superadmin",
+    "updatedAt": "2026-10-05T12:00:00.000Z",
+    "failedAttempts": 0,
+    "lockoutUntil": null
+  },
+  "sessions": {
+    "b1114e5d0a6345660b32c8bc214b0ab98b4cee49782838d000ff4e90cc855abe": {
+      "username": "admin",
+      "createdAt": 1791272569445,
+      "expiresAt": 1791301369445
+    }
+  }
+}
